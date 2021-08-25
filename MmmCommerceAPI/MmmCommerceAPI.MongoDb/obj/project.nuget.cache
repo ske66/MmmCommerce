@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xVqJUr2/ercmqRXuAQnbQfJkJlqh4gH/1anwqZ5qMjAYMT3EDM55r8SLOFuyggGKMVgt4TZwPgwpQhGzsTnKg==",
+  "dgSpecHash": "skuwvevhZyzeO/4JmT6KckzdXhMPerAOw6drduAiu7DIfqH8cCZK6ggEP/lA5hU4n56oydnXlHOCvutUnF9Q4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj",
+  "projectFilePath": "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

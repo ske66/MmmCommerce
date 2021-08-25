@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MtvZoH2T0GzcWGwnrngoXndPqOWnwVsdWQ5eTkjPFTa8i0ucN+V0234/hw/wZuJ7s2SNjSxbR3I0jhKEwkpyzA==",
+  "dgSpecHash": "VjhrhOiQQbQqHkqLWBptVKX1dpAXZxt9Dju19Oxt0utoaJwDYTs16q7YijcaULel1gPtxqQG/1A6lZUljqo0jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI\\MmmCommerceAPI.csproj",
+  "projectFilePath": "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI\\MmmCommerceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbarton\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mbarton\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

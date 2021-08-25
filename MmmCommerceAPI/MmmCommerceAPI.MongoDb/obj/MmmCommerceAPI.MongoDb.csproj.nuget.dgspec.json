@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj": {}
+    "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj": {
+    "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj",
+        "projectUniqueName": "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj",
         "projectName": "MmmCommerceAPI.MongoDb",
-        "projectPath": "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj",
+        "projectPath": "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\MmmCommerceAPI.MongoDb.csproj",
         "packagesPath": "C:\\Users\\mbarton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbarton\\Desktop\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\obj\\",
+        "outputPath": "C:\\Users\\mbarton\\Desktop\\MmmCommerce\\MmmCommerceAPI\\MmmCommerceAPI.MongoDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
